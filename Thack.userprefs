@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\JSON\Json.cs">
+    <Files>
+      <File FileName="..\Important Projects\Blue_marble\Assets\GOES Samples\Cycle.js" Line="1" Column="1" />
+      <File FileName="Assets\JSON\GUIFix.cs" Line="1" Column="1" />
+      <File FileName="Assets\Video.js" Line="19" Column="33" />
+      <File FileName="Assets\JSON\Json.cs" Line="28" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
